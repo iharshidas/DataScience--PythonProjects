@@ -2,9 +2,8 @@
 This repository contains step-by-step projects for data science beginners using Python.
 
 ### PROJECT 1 (Analyze TV Data)
-For this set of projects, we will use a combination of data manipulation and visualization to explore television data. In this project, we will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows. 
-
-Packages used- Malplotlib, seaborn, pandas
+For this set of projects, we will use a combination of data manipulation and visualization to explore television data. In this project, we will look at Super Bowl Data, generating insights into game outcomes, viewership, and even halftime shows.  
+Packages used- Matplotlib, seaborn, pandas
 
 ### PROJECT 2 (Pubg)
 In this project, few questions are answered using the above same packages  
@@ -31,3 +30,8 @@ TASKS PERFORMED:
 20. Add a new column called ‘KILL’ which contains the sum of following columns viz. headshotKills, teamKills, roadKills.
 21. Round off column ‘winPlacePerc’ to 2 decimals.
 22. Take a sample of size 50 from the column damageDealt for 100 times and calculate its mean. Plot it on a histogram and comment on its distribution.
+
+### PROJECT 3 (The Android App Market on Google Play)
+A comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.  
+
+The data for this project was scraped from the Google Play website.
